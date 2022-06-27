@@ -1,6 +1,6 @@
 # Exercice 1
 #declaration de la chaine de caractére
-words = "Le blog 'ledatascientist' est le blog français de référence en Data Science."
+words = "Le blog 'ledatascientist' est le blog français           de référence en Data Science."
 #La méthode split() décompose les grandes chaînes en plus petites.
 #Par conséquent, le comptage des mots dans le tableau de chaînes sera basé non pas exactement sur les mots mais sur la façon dont le séparateur de fractionnement est défini.
 words = words.split('.''')
